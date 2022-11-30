@@ -9,7 +9,6 @@ ii)auto encoder decoder model- here our aim is  passing a low resulution image a
 </h3>
 <p align="left">
   <img src="./Images/indian_rainfall_1901.png" width="300" title="1degree rainfall heatmap">
-</p>
-<p align="center">
+
   <img src="./Images/indian_rainfall_1901.png" width="300" title="0. 25 degree rainfall heatmap">
 </p>
