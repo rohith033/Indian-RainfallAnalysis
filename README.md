@@ -5,5 +5,5 @@ normally in india we have rain fall information from rain gauges in every 1 degr
 methods used:
 i) moving weighted avg(commenly used for temprature predicition
 ii)auto encoder decoder model- here our aim is  passing a low resulution image and getting a better reslution image
-<img src="./images/indian-rainfall-1901.png" alt="Rainfall intensity heat map of 1901"></img>
 </h3>
+<img src="./images/indian-rainfall-1901.png" alt="Rainfall intensity heat map of 1901"></img>
