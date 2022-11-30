@@ -12,3 +12,4 @@ ii)auto encoder decoder model- here our aim is  passing a low resulution image a
 
   <img src="./Images/indian_rainfall_1902.png" width="300" title="0. 25 degree rainfall heatmap">
 </p>
+<p>1 degree rain fall image     0.25 degree rainfall image</p>
