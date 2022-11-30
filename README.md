@@ -7,6 +7,6 @@ methods used:
 i) moving weighted avg(commenly used for temprature predicition
 ii)auto encoder decoder model- here our aim is  passing a low resulution image and getting a better reslution image
 </h3>
-<p align="center">
+<p align="left">
   <img src="./Images/indian_rainfall_1901.png" width="500" title="hover text">
 </p>
