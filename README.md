@@ -8,8 +8,8 @@ i) moving weighted avg(commenly used for temprature predicition
 ii)auto encoder decoder model- here our aim is  passing a low resulution image and getting a better reslution image
 </h3>
 <p align="left">
-  <img src="./Images/indian_rainfall_1901.png" width="500" title="1degree rainfall heatmap">
+  <img src="./Images/indian_rainfall_1901.png" width="300" title="1degree rainfall heatmap">
 </p>
 <p align="center">
-  <img src="./Images/indian_rainfall_1901.png" width="500" title="0. 25 degree rainfall heatmap">
+  <img src="./Images/indian_rainfall_1901.png" width="300" title="0. 25 degree rainfall heatmap">
 </p>
