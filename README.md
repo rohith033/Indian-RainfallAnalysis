@@ -7,4 +7,4 @@ methods used:
 i) moving weighted avg(commenly used for temprature predicition
 ii)auto encoder decoder model- here our aim is  passing a low resulution image and getting a better reslution image
 </h3>
-<img src="../images/indian_rainfall_1901.png" alt="Rainfall intensity heat map of 1901"/>
+<img src="../Images/indian_rainfall_1901.png" alt="Rainfall intensity heat map of 1901"/>
