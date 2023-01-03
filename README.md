@@ -9,12 +9,7 @@ ii)auto encoder decoder model- here our aim is  passing a low resulution image a
 </h3>
 <p align="left">
   <img src="https://user-images.githubusercontent.com/81549690/210353896-d1cc9428-623f-4fa2-937f-0fde3f293da4.png" width="350" title="1degree rainfall heatmap">
-
-  
-  
-  
-  
-  
+  <div padding:"20px"></div>
   <img src="https://user-images.githubusercontent.com/81549690/210353906-35b88e93-6bd5-4976-aafb-47505ce5d435.png" width="350" title="0. 25 degree rainfall heatmap">
 </p>
 <p>1 degree rainfall image &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.25 degree rainfall image</p>
