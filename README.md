@@ -1,7 +1,7 @@
-
+In India, we typically have data on rainfall from rain gauges every 1 degree in latitude and longitude.We are attempting to obtain rainfall data for every 0.25 degrees of latitude and longitude by applying deep learning.
 <h1>Indian-RainfallAnalysis</h1>
 <h3>
-normally in india we have rain fall information from rain gauges in every 1 degree lat and long.By using deep learning we are trying to achive rainfall data for every 0.25 degreee of lat and long</h3>
+</h3>
 <h3>
 methods used:</h3>
 <h3>1) moving weighted avg(commenly used for temprature predicition</h3>
